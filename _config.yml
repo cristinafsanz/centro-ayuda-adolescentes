@@ -1,4 +1,6 @@
 name: Centro ayuda adolescentes
 markdown: kramdown
-url: http://username.github.io/centro-ayuda-adolescentes/
+url: http://cristinafsanz.github.io/centro-ayuda-adolescentes/
 baseurl: "/centro-ayuda-adolescentes"
+
+permalink: /blog/:year/:month/:day/:title.md
