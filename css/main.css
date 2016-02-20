@@ -1,6 +1,12 @@
-body {
+h1 {
+    display: none;
+}
+.container {
     margin: 60px auto;
     width: 70%;
+}
+nav {
+    float: right;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -11,6 +17,17 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+}
+footer ul {
+    text-align: center;
+}
+header {
+    clear: right;
+    width: 100%;
+}
+
+img {
+    max-width: 100%;
 }
 a {
     text-decoration: none;
