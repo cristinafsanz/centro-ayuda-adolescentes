@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Centro de ayuda a adolescentes
-imageUrl: images/cabecera-home.jpg
+imageUrl: images/cabecera.jpg
 ---
 
 Mi nombre es Santiaga Fernández Villanueva. 

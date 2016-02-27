@@ -9,9 +9,12 @@ h1 {
     width: 70%;
 }
 nav {
-    float: right;
+   width: 100%;
+   height: 50px;
+   background-color: #2d2d86; 
 }
 nav ul, footer ul {
+    float: right;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
@@ -29,16 +32,19 @@ header {
     width: 100%;
 }
 
-img {
+header img {
     max-width: 100%;
     width: 100%;
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #000;
 }
 a:hover {
     text-decoration: underline;
+}
+nav a {
+    color: #fff;
 }
 h1 {
     font-size: 3em;
