@@ -10,8 +10,10 @@ Terminé mis estudios de psicología en el año 2006. Poseo la titulación de ex
 
 Tengo experiencia en hablar y comunicarme con adolescentes, un colectivo que me interesa mucho, pues me parece que es una etapa de la vida muy incomprendida. Para ilustrar la idea que quiero transmitir, os dejo una cita que podría seguir siendo utilizada en la actualidad:
 
-	"Los jóvenes hoy en día son unos tiranos. Contradicen a sus padres, devoran su comida, y le faltan al respeto a sus maestros". 
-	Sócrates (470 AC-399 AC) Filósofo griego.
+<div class="quote">
+  <blockquote>Los jóvenes hoy en día son unos tiranos. Contradicen a sus padres, devoran su comida, y le faltan al respeto a sus maestros.</blockquote> 
+  <cite>Sócrates (470 AC-399 AC) Filósofo griego.</cite>
+</div>
 
 
 ## Centro de ayuda al adolescente

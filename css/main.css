@@ -5,7 +5,7 @@ h1 {
     display: none;
 }
 .container {
-    margin: 60px auto;
+    margin: 80px auto;
     width: 70%;
 }
 nav {
@@ -50,14 +50,42 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-p {
+p, blockquote , cite {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
+
+.quote {
+  background-color: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.05em;
+  vertical-align: -0.4em;
+}
+blockquote:after {
+  color: #ccc;
+  content: close-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-left: 0.05em;
+  vertical-align: -0.4em;
+}
+
+cite {
+  margin: 40px;
+}
+
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
 }
 
 ul.posts { 
@@ -67,4 +95,10 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+.fixed {
+  position: fixed;
+  top: 0;
+  left: 0;
 }
